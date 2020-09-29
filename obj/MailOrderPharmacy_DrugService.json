@@ -1,0 +1,102 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "DRUG API",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Drugs/GetDrugDetails/{drug_id}": {
+      "get": {
+        "tags": [
+          "Drugs"
+        ],
+        "parameters": [
+          {
+            "name": "drug_id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Drugs/GetDrugDetailByName/{drug_name}": {
+      "get": {
+        "tags": [
+          "Drugs"
+        ],
+        "parameters": [
+          {
+            "name": "drug_name",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "nullable": true
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Drugs/{id}/{loc}": {
+      "get": {
+        "tags": [
+          "Drugs"
+        ],
+        "parameters": [
+          {
+            "name": "drug_id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "drug_loc",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "nullable": true
+            }
+          },
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "loc",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

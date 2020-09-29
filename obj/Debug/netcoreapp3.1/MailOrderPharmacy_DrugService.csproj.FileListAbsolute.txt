@@ -1,0 +1,162 @@
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.csprojAssemblyReference.cache
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.AssemblyInfoInputs.cache
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.AssemblyInfo.cs
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.RazorTargetAssemblyInfo.cache
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\staticwebassets\MailOrderPharmacy_DrugService.StaticWebAssets.Manifest.cache
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\staticwebassets\MailOrderPharmacy_DrugService.StaticWebAssets.xml
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.exe
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.deps.json
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.runtimeconfig.json
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.runtimeconfig.dev.json
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.dll
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.pdb
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.csproj.CoreCompileInputs.cache
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.dll
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.pdb
+C:\Users\oliva\source\repos\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.genruntimeconfig.cache
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.exe
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.deps.json
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.runtimeconfig.json
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.runtimeconfig.dev.json
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.dll
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.pdb
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.csprojAssemblyReference.cache
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.AssemblyInfoInputs.cache
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.AssemblyInfo.cs
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.csproj.CoreCompileInputs.cache
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.RazorTargetAssemblyInfo.cache
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\staticwebassets\MailOrderPharmacy_DrugService.StaticWebAssets.Manifest.cache
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\staticwebassets\MailOrderPharmacy_DrugService.StaticWebAssets.xml
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.dll
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.pdb
+C:\Users\tamag\Downloads\MailOrderPharmacy_DrugService\MailOrderPharmacy_DrugService\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.genruntimeconfig.cache
+C:\Users\oliva\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\oliva\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\oliva\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\oliva\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.exe
+C:\Users\oliva\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.deps.json
+C:\Users\oliva\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.runtimeconfig.json
+C:\Users\oliva\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.runtimeconfig.dev.json
+C:\Users\oliva\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.dll
+C:\Users\oliva\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.pdb
+C:\Users\oliva\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.csprojAssemblyReference.cache
+C:\Users\oliva\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.AssemblyInfoInputs.cache
+C:\Users\oliva\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.AssemblyInfo.cs
+C:\Users\oliva\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.RazorTargetAssemblyInfo.cache
+C:\Users\oliva\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\staticwebassets\MailOrderPharmacy_DrugService.StaticWebAssets.Manifest.cache
+C:\Users\oliva\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\staticwebassets\MailOrderPharmacy_DrugService.StaticWebAssets.xml
+C:\Users\oliva\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.dll
+C:\Users\oliva\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.pdb
+C:\Users\oliva\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.genruntimeconfig.cache
+C:\Users\oliva\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\oliva\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\oliva\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\oliva\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\oliva\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\oliva\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\oliva\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\oliva\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oliva\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.csproj.CoreCompileInputs.cache
+C:\Users\oliva\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oliva\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.csproj.CopyComplete
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.exe
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.deps.json
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.runtimeconfig.json
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.runtimeconfig.dev.json
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.pdb
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tamag\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.csprojAssemblyReference.cache
+C:\Users\tamag\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.AssemblyInfoInputs.cache
+C:\Users\tamag\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.AssemblyInfo.cs
+C:\Users\tamag\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.RazorTargetAssemblyInfo.cache
+C:\Users\tamag\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.csproj.CopyComplete
+C:\Users\tamag\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\staticwebassets\MailOrderPharmacy_DrugService.StaticWebAssets.Manifest.cache
+C:\Users\tamag\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\staticwebassets\MailOrderPharmacy_DrugService.StaticWebAssets.xml
+C:\Users\tamag\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.dll
+C:\Users\tamag\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.pdb
+C:\Users\tamag\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.genruntimeconfig.cache
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\tamag\source\repos\DrugsServices-master\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\tamag\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.csproj.CoreCompileInputs.cache
+C:\Users\tamag\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tamag\source\repos\DrugsServices-master\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.exe
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.deps.json
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.runtimeconfig.json
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.runtimeconfig.dev.json
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.pdb
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.csprojAssemblyReference.cache
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.AssemblyInfoInputs.cache
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.AssemblyInfo.cs
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.csproj.CoreCompileInputs.cache
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.RazorTargetAssemblyInfo.cache
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.csproj.CopyComplete
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\obj\Debug\netcoreapp3.1\staticwebassets\MailOrderPharmacy_DrugService.StaticWebAssets.Manifest.cache
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\obj\Debug\netcoreapp3.1\staticwebassets\MailOrderPharmacy_DrugService.StaticWebAssets.xml
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.dll
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.pdb
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\obj\Debug\netcoreapp3.1\MailOrderPharmacy_DrugService.genruntimeconfig.cache
+C:\Users\oliva\OneDrive\Desktop\MailOrder\MailOrder_Pharmacy\Drug API\bin\Debug\netcoreapp3.1\DrugService.yaml

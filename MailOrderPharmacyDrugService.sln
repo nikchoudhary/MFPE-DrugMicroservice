@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailOrderPharmacyDrugService", "MailOrderPharmacyDrugService.csproj", "{B9F57B79-1CF6-44B7-A636-AA595C1E81A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnitTestFor_DrugMicroservice", "..\NUnitTestFor_DrugMicroservice\NUnitTestFor_DrugMicroservice.csproj", "{9C2AEC6D-5255-4E4A-BF79-7B00F68DF755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9F57B79-1CF6-44B7-A636-AA595C1E81A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F57B79-1CF6-44B7-A636-AA595C1E81A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F57B79-1CF6-44B7-A636-AA595C1E81A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F57B79-1CF6-44B7-A636-AA595C1E81A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C2AEC6D-5255-4E4A-BF79-7B00F68DF755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2AEC6D-5255-4E4A-BF79-7B00F68DF755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2AEC6D-5255-4E4A-BF79-7B00F68DF755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2AEC6D-5255-4E4A-BF79-7B00F68DF755}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8DF3BF6-1358-48A8-94DF-D7DF98A23FCD}
+	EndGlobalSection
+EndGlobal
